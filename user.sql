@@ -5,7 +5,7 @@
  Source Server Type    : MySQL
  Source Server Version : 80013
  Source Host           : localhost:3306
- Source Schema         : lvyou
+ Source Schema         : first_mysql
 
  Target Server Type    : MySQL
  Target Server Version : 80013
